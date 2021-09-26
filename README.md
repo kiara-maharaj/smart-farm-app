@@ -15,9 +15,10 @@ crops, and add tasks that need to be done on the farm. This
 app is called "SmartFarm".
 
 Builds:
+The builds for this project are available here: https://drive.google.com/drive/folders/1PyPAcvCPD96ujt0eTDxWwwLRFD67wm9D?usp=sharing
 1. Android - to reproduce this build, make sure expo is installed and run the command "expo build:android",
 and select "apk"
-2. iOS - same as above, run the command "expo build: iOS"
+2. iOS - same as above, run the command "expo build: ios -t -simulator"
 
 Resources I used:
 1. ICON/Splash page design - Pixlr editor, https://pixlr.com/editor/
